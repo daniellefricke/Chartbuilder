@@ -125,7 +125,7 @@ var defaultProps = {
 		chartType: "chartgrid",
 		title: "",
 		source: "",
-		credit: "Made with Chartbuilder",
+		credit: "US Chamber of Commerce",
 		size: "auto"
 	}
 };

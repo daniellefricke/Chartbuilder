@@ -581,7 +581,7 @@ span.step-number {
   margin-right: 0.25em;
 }
 .editor-options {
-  font-family: 'Khula-Regular', Arial, Helvetica, sans-serif;
+  font-family: 'Khula-Regular', Arial, sans-serif;
   margin: 30px 0;
   display: block;
   width: 100%;
